@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DLMtool"]
+	path = DLMtool
+	url = https://github.com/cran/DLMtool
 [submodule "LBSPR"]
 	path = LBSPR
 	url = https://github.com/adrianhordyk/lbspr
